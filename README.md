@@ -1,2 +1,2 @@
-# ecoscore
-Provides real-time sustainability verification
+npm install -g @google/clasp
+   clasp login
